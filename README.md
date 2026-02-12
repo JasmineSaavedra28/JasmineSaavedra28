@@ -16,20 +16,17 @@ I am a tech professional with a hybrid background: I combine the **logical appro
 
 ## 🛠️ Tech Stack
 
+**Development & Data**
+> `Python` `Java` `JavaScript` `SQL` `Node.js` `Firebase`
 
+**Quality Assurance & Analysis**
+> `Manual Testing` `WCAG (Accessibility)` `Documentation` `Agile/Scrum`
 
-| Domain | Technologies |
+**Design & UI/UX**
+> `Figma` `Adobe Suite` `High-fidelity Prototyping` `User Flows`
 
-| :--- | :--- |
-
-| **Programming** | Python, Java, JavaScript, C++, SQL |
-
-| **QA & Testing** | Manual Testing, Test Case Documentation, Accessibility (WCAG) |
-
-| **Design** | Figma, Adobe Creative Suite, High-fidelity Prototyping |
-
-| **Tools & More** | Git, GitHub, N8N (Automation), Firebase, Agile/Scrum |
-
+**Automation & Tools**
+> `N8N` `Git` `Postman` `Power BI`
 
 
 ---
