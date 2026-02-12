@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there! I'm Jazmín Saavedra 👋
 
-<!--
-**JasmineSaavedra28/JasmineSaavedra28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Systems Analyst | QA Associate | UX/UI Designer
+
+
+
+I am a tech professional with a hybrid background: I combine the **logical approach of systems analysis**, the rigor of **QA testing**, and the aesthetic sensibility of **UX/UI design**. Currently in my 3rd year of Systems Analysis, I focus on building digital solutions that are technically robust and visually flawless.
+
+
+
+---
+
+
+
+## 🛠️ Tech Stack
+
+
+
+| Domain | Technologies |
+
+| :--- | :--- |
+
+| **Programming** | Python, Java, JavaScript, C++, SQL |
+
+| **QA & Testing** | Manual Testing, Test Case Documentation, Accessibility (WCAG) |
+
+| **Design** | Figma, Adobe Creative Suite, High-fidelity Prototyping |
+
+| **Tools & More** | Git, GitHub, N8N (Automation), Firebase, Agile/Scrum |
+
+
+
+---
+
+
+
+## 🔭 Experience & Projects
+
+
+
+- **Fintech & Dashboards:** Experience designing complex interfaces for the financial sector.
+
+- **QA Associate:** One year ensuring the quality of digital products and educational content.
+
+- **Systems Development:** Currently working on **Firebase** integrations and **N8N** automation workflows (Some repositories are kept private for security/API Key protection).
+
+
+
+---
+
+
+
+## 📫 Let's Connect
+
+- 💼 **LinkedIn:** [linkedin.com/in/jazmin-saavedra/](https://www.linkedin.com/in/jazmin-saavedra/)
+
+- 📍 Mar del Plata, Argentina (Available for Remote Work)
+
+
+
+---
+
+
